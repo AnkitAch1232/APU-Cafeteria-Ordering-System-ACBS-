@@ -1,0 +1,11 @@
+General.ManagerMenu$8
+General.ManagerMenu$9
+General.ManagerMenu$6
+General.ManagerMenu$7
+General.ManagerMenu$4
+General.ManagerMenu$5
+General.ManagerMenu$10
+General.ManagerMenu$2
+General.ManagerMenu$3
+General.ManagerMenu$1
+General.ManagerMenu

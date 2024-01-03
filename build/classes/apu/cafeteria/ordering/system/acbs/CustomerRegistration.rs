@@ -1,0 +1,8 @@
+General.CustomerRegistration$7
+General.CustomerRegistration$4
+General.CustomerRegistration$3
+General.CustomerRegistration$6
+General.CustomerRegistration
+General.CustomerRegistration$5
+General.CustomerRegistration$2
+General.CustomerRegistration$1

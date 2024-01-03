@@ -1,0 +1,7 @@
+General.ManagerRegistration$3
+General.ManagerRegistration$2
+General.ManagerRegistration$1
+General.ManagerRegistration$6
+General.ManagerRegistration$5
+General.ManagerRegistration
+General.ManagerRegistration$4

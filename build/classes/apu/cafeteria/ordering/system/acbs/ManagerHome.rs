@@ -1,0 +1,10 @@
+General.ManagerHome$1
+General.ManagerHome
+General.ManagerHome$4
+General.ManagerHome$5
+General.ManagerHome$2
+General.ManagerHome$3
+General.ManagerHome$8
+General.ManagerHome$9
+General.ManagerHome$6
+General.ManagerHome$7
